@@ -1,4 +1,4 @@
-# placeholder-img
+# placeholder-img [![Build Status](https://travis-ci.org/astronomersiva/placeholder-img.svg?branch=master)](https://travis-ci.org/astronomersiva/placeholder-img)
 
 Generates low-res blurred versions of images that can be used as placeholders while lazy-loading them.
 
