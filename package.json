@@ -1,0 +1,32 @@
+{
+  "name": "placeholder-img",
+  "version": "1.0.0",
+  "description": "Generates low-res blurred versions of images that can be used as placeholders while lazy-loading them",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava && eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astronomersiva/placeholder-img.git"
+  },
+  "keywords": [
+    "image",
+    "lazy-loading"
+  ],
+  "author": "Sivasubramanyam A <sivasubramanyama@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astronomersiva/placeholder-img/issues"
+  },
+  "homepage": "https://github.com/astronomersiva/placeholder-img#readme",
+  "dependencies": {
+    "sharp": "^0.20.5"
+  },
+  "devDependencies": {
+    "ava": "1.0.0-beta.6",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
